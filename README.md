@@ -1,6 +1,9 @@
 # USF-Capstone
 USF Data Analytics Bootcamp Capstone Project
 
+## Link to Tableau presentation
+https://public.tableau.com/views/LFCapstone-ClinicalandDemographicVariablesAssociatedWithDiabetes/LFCapstonePresentation?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+
 ## Project objective
 To determine which clinical and demographic variables have the closest correlation to diabetes
 
